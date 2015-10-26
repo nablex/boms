@@ -27,6 +27,7 @@
 		{ "name": "property-api" },
 		{ "name": "glue-database" },
 		{ "name": "glue-json" },
+		{ "name": "glue-transcoder" },
 		{ "name": "utils-xml" },
 		{ "name": "glue-xml" },
 		{ "name": "glue-types" },
