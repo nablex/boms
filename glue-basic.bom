@@ -20,7 +20,7 @@
 		{ "name": "artifacts-api" },
 		{ "name": "glue-api" },
 		{ "name": "glue" },
-		{ "name": "http-scraper" }
+		{ "name": "html-scraper" },
 
 		{ "name": "resources-zip" },
 		{ "name": "validator-base" },
@@ -32,7 +32,7 @@
 		{ "name": "utils-xml" },
 		{ "name": "glue-xml" },
 		{ "name": "glue-types" },
-		{ "name": "glue-http"},
+		{ "name": "glue-html"},
 		{ "name": "evaluator-types" }
 	]
 }
